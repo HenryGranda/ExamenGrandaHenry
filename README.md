@@ -9,5 +9,5 @@ Este proyecto crea una imagen Docker para ejecutar una aplicación Angular servi
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/my-angular-docker-app.git
-   cd my-angular-docker-app
+   git clone https://github.com/HenryGranda/ExamenGrandaHenry.git
+   
